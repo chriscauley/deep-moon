@@ -1287,6 +1287,11 @@
   dependencies:
     "@types/node" "*"
 
+"@unrest/tailwind@^0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@unrest/tailwind/-/tailwind-0.1.18.tgz#fee266eae8699ad5360b52278b0bcf6f3d1410f5"
+  integrity sha512-jS0lWYFz2jSdYWFXkKX5z6HWNb6IsY876eRLngKcBHn0St574lh4PX8Egjy3+eXpu95kBE4zPKyjEuWgXHCHiA==
+
 "@unrest/vue-mousetrap@^0.0.10":
   version "0.0.10"
   resolved "https://registry.yarnpkg.com/@unrest/vue-mousetrap/-/vue-mousetrap-0.0.10.tgz#698d1743ebb2ae202686bcb5578c9bf7a3edc2bd"
@@ -4386,10 +4391,10 @@ opener@^1.5.2:
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
   integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
-openseadragon@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/openseadragon/-/openseadragon-3.1.0.tgz#152b1ed8b6b03296feeed4e0ddf084cea7d0c1f2"
-  integrity sha512-0zCbRIWUbCto7xm1tv2ZLEiSl84cDU659W/sfs2zqqTqVRa4CRHzhy7i9nsv6dHA1DryFR8IzjStjmWOqRs9Rg==
+openseadragon@2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/openseadragon/-/openseadragon-2.4.2.tgz#f25d833d0ab9941599d65a3e2b44bec546c9f15c"
+  integrity sha512-398KbZwRtOYA6OmeWRY4Q0737NTacQ9Q6whmr9Lp1MNQO3p0eBz5LIASRne+4gwequcSM1vcHcjfy3dIndQziw==
 
 optionator@^0.9.1:
   version "0.9.1"

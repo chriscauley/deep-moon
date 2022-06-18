@@ -8,9 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@unrest/tailwind": "^0.1.18",
     "@unrest/vue-mousetrap": "^0.0.10",
     "core-js": "^3.8.3",
-    "openseadragon": "^3.1.0",
+    "openseadragon": "2.4.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {

@@ -1,0 +1,9 @@
+.osd-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.openseadragon-container {
+  flex-grow: 1;
+}
